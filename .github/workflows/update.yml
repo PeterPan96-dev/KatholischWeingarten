@@ -2,7 +2,7 @@ name: Gottesdienste-Kalender aktualisieren
 
 on:
   schedule:
-    - cron: "17 4 * * *"      # täglich ca. 5:17/6:17 Uhr Ortszeit
+    - cron: "17 4 * * 4"      # wöchentlich, donnerstags ca. 5:17/6:17 Uhr Ortszeit
   workflow_dispatch: {}        # zusätzlich per Knopfdruck startbar
 
 permissions:
