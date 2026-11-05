@@ -58,7 +58,12 @@ def fetch_text() -> str:
     soup = BeautifulSoup(r.text, "html.parser")
     for tag in soup(["script", "style", "nav", "header", "footer"]):
         tag.decompose()
-    # <br> und Block-Elemente zu Zeilenumbrüchen
+    # <br> wird zum Zeilenumbruch; Inline-Tags (fett, Links ...) dürfen keine Zeile zerreißen
+    for br in soup.find_all("br"):
+        br.replace_with("\n")
+    for tag in soup.find_all(["strong", "b", "em", "i", "a", "span"]):
+        tag.unwrap()
+    soup.smooth()
     return soup.get_text("\n")
 
 
