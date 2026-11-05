@@ -1,9 +1,33 @@
 [
  {
-  "uid": "d8ab71f3baa8a748352c@gottesdienste-ics",
+  "uid": "39f6c817a41ab314a4f6@gottesdienste-ics",
+  "start": "2026-11-05T07:25:00+01:00",
+  "end": "2026-11-05T08:25:00+01:00",
+  "summary": "Schülermesse für die EK-Kinder aus St. Martin (Marienkapelle) (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "a7260297e3926b339b8d@gottesdienste-ics",
+  "start": "2026-11-05T07:25:00+01:00",
+  "end": "2026-11-05T08:25:00+01:00",
+  "summary": "Schülermesse für die EK-Kinder aus St. Maria und Hl. Geist (St. Maria)",
+  "location": "St. Maria",
+  "description": "Gottesdienste Weingarten – St. Maria\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "f442f93e215698267f10@gottesdienste-ics",
+  "start": "2026-11-05T18:30:00+01:00",
+  "end": "2026-11-05T19:30:00+01:00",
+  "summary": "Taizé-Singen (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "85c7f883722eaf0c5caf@gottesdienste-ics",
   "start": "2026-11-06T08:30:00+01:00",
   "end": "2026-11-06T09:30:00+01:00",
-  "summary": "Eucharistiefeier, mitgestaltet von der (St. Maria)",
+  "summary": "Eucharistiefeier, mitgestaltet von der Musikgruppe „Tau“ (St. Maria)",
   "location": "St. Maria",
   "description": "Gottesdienste Weingarten – St. Maria\nHl. Leonhard\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
  },
@@ -126,6 +150,30 @@
   "summary": "Eucharistiefeier (Hl. Geist)",
   "location": "Hl. Geist",
   "description": "Gottesdienste Weingarten – Hl. Geist\nHl. Martin von Tours\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "56ea6135de3fb37d6819@gottesdienste-ics",
+  "start": "2026-11-12T07:25:00+01:00",
+  "end": "2026-11-12T08:25:00+01:00",
+  "summary": "Schülermesse für die EK-Kinder aus St. Martin (Marienkapelle) (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "7e965d8d0fd1fa45cfe6@gottesdienste-ics",
+  "start": "2026-11-12T07:25:00+01:00",
+  "end": "2026-11-12T08:25:00+01:00",
+  "summary": "Schülermesse für die EK-Kinder aus St. Maria und Hl. Geist (St. Maria)",
+  "location": "St. Maria",
+  "description": "Gottesdienste Weingarten – St. Maria\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "9d559fc3b53621d28c7b@gottesdienste-ics",
+  "start": "2026-11-13T08:30:00+01:00",
+  "end": "2026-11-13T09:30:00+01:00",
+  "summary": "Morgenlob, mitgestaltet von der Musikgruppe „Tau“ (St. Maria)",
+  "location": "St. Maria",
+  "description": "Gottesdienste Weingarten – St. Maria\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
  },
  {
   "uid": "82be06417ebb6013d7e3@gottesdienste-ics",
