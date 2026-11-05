@@ -1,0 +1,223 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gottesdienste-ics//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gottesdienste Weingarten
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:d8ab71f3baa8a748352c@gottesdienste-ics
+DTSTAMP:20261105T194532Z
+DTSTART:20261106T073000Z
+DTEND:20261106T083000Z
+SUMMARY:Eucharistiefeier\, mitgestaltet von der (St. Maria)
+LOCATION:St. Maria
+DESCRIPTION:Gottesdienste Weingarten – St. Maria\nHl. Leonhard\nQuelle: h
+ ttps://katholisch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:b23c7b18604601524e51@gottesdienste-ics
+DTSTAMP:20261105T194532Z
+DTSTART:20261106T173000Z
+DTEND:20261106T183000Z
+SUMMARY:Abendmesse\, anschl. Einzelsegen mit der Hl.-Blut-Reliquie und Segn
+ ung der Andachtsgegenstände (Basilika)
+LOCATION:Basilika
+DESCRIPTION:Gottesdienste Weingarten – Basilika\nHl. Leonhard\nQuelle: ht
+ tps://katholisch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:76ca6611758f68c686ca@gottesdienste-ics
+DTSTAMP:20261105T194532Z
+DTSTART:20261107T073000Z
+DTEND:20261107T083000Z
+SUMMARY:Eucharistiefeier (Marienkapelle) (Basilika)
+LOCATION:Basilika
+DESCRIPTION:Gottesdienste Weingarten – Basilika\nQuelle: https://katholis
+ ch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:1a6f4c8ad33bbbbef3c1@gottesdienste-ics
+DTSTAMP:20261105T194532Z
+DTSTART:20261107T080000Z
+DTEND:20261107T093000Z
+SUMMARY:Beichtgelegenheit (Marienkapelle) (Basilika)
+LOCATION:Basilika
+DESCRIPTION:Gottesdienste Weingarten – Basilika\nQuelle: https://katholis
+ ch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:d72da182118b134826e8@gottesdienste-ics
+DTSTAMP:20261105T194532Z
+DTSTART:20261107T090000Z
+DTEND:20261107T100000Z
+SUMMARY:Firmgottesdienst mit Domkapitular Thomas Weißhaar (St. Maria)
+LOCATION:St. Maria
+DESCRIPTION:Gottesdienste Weingarten – St. Maria\nQuelle: https://katholi
+ sch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:2794bac804ac93d81619@gottesdienste-ics
+DTSTAMP:20261105T194532Z
+DTSTART:20261107T140000Z
+DTEND:20261107T150000Z
+SUMMARY:Firmgottesdienst mit Domkapitular Thomas Weißhaar (St. Maria)
+LOCATION:St. Maria
+DESCRIPTION:Gottesdienste Weingarten – St. Maria\nQuelle: https://katholi
+ sch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:1ff145136aea22b84441@gottesdienste-ics
+DTSTAMP:20261105T194532Z
+DTSTART:20261107T140000Z
+DTEND:20261107T150000Z
+SUMMARY:Eucharistiefeier (Adolf-Gröber-Haus)
+LOCATION:Adolf-Gröber-Haus
+DESCRIPTION:Gottesdienste Weingarten – Adolf-Gröber-Haus\nQuelle: https:
+ //katholisch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:2c230b7cfe6a90ecda16@gottesdienste-ics
+DTSTAMP:20261105T194532Z
+DTSTART:20261107T173000Z
+DTEND:20261107T183000Z
+SUMMARY:Wort-Gottes-Feier zum Sonntag mit Kommunion (Hl. Geist)
+LOCATION:Hl. Geist
+DESCRIPTION:Gottesdienste Weingarten – Hl. Geist\nQuelle: https://katholi
+ sch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:9f698fd86c8f6237dc82@gottesdienste-ics
+DTSTAMP:20261105T194532Z
+DTSTART:20261108T080000Z
+DTEND:20261108T090000Z
+SUMMARY:Eucharistiefeier (Basilika)
+LOCATION:Basilika
+DESCRIPTION:Gottesdienste Weingarten – Basilika\n32. Sonntag im Jahreskre
+ is\nQuelle: https://katholisch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:f076e4ae3c8858af64b5@gottesdienste-ics
+DTSTAMP:20261105T194532Z
+DTSTART:20261108T093000Z
+DTEND:20261108T103000Z
+SUMMARY:Eucharistiefeier (St. Maria)
+LOCATION:St. Maria
+DESCRIPTION:Gottesdienste Weingarten – St. Maria\n32. Sonntag im Jahreskr
+ eis\nQuelle: https://katholisch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:d4123585db7b5dd6757d@gottesdienste-ics
+DTSTAMP:20261105T194532Z
+DTSTART:20261108T173000Z
+DTEND:20261108T183000Z
+SUMMARY:Abendmesse (Basilika)
+LOCATION:Basilika
+DESCRIPTION:Gottesdienste Weingarten – Basilika\n32. Sonntag im Jahreskre
+ is\nQuelle: https://katholisch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:9525a2efbc82a03b92cf@gottesdienste-ics
+DTSTAMP:20261105T194532Z
+DTSTART:20261110T173000Z
+DTEND:20261110T183000Z
+SUMMARY:Abendmesse (St. Maria)
+LOCATION:St. Maria
+DESCRIPTION:Gottesdienste Weingarten – St. Maria\nHl. Leo der Große\nQue
+ lle: https://katholisch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:ac64604c4c1b47b069d9@gottesdienste-ics
+DTSTAMP:20261105T194532Z
+DTSTART:20261110T173000Z
+DTEND:20261110T183000Z
+SUMMARY:Eucharistische Anbetung (Marienkapelle) (Basilika)
+LOCATION:Basilika
+DESCRIPTION:Gottesdienste Weingarten – Basilika\nHl. Leo der Große\nQuel
+ le: https://katholisch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:4f90f250a27596bd9421@gottesdienste-ics
+DTSTAMP:20261105T194532Z
+DTSTART:20261111T073000Z
+DTEND:20261111T083000Z
+SUMMARY:Eucharistiefeier zum Patrozinium (Marienkapelle) (Basilika)
+LOCATION:Basilika
+DESCRIPTION:Gottesdienste Weingarten – Basilika\nHl. Martin von Tours\nQu
+ elle: https://katholisch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:66e319ce077dd054c04f@gottesdienste-ics
+DTSTAMP:20261105T194532Z
+DTSTART:20261111T160000Z
+DTEND:20261111T170000Z
+SUMMARY:St. Martins-Feier der Kinder in Nessenreben (Basilika)
+LOCATION:Basilika
+DESCRIPTION:Gottesdienste Weingarten – Basilika\nHl. Martin von Tours\nQu
+ elle: https://katholisch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:7f9e30f6ec596c811801@gottesdienste-ics
+DTSTAMP:20261105T194532Z
+DTSTART:20261111T173000Z
+DTEND:20261111T183000Z
+SUMMARY:Eucharistiefeier (Hl. Geist)
+LOCATION:Hl. Geist
+DESCRIPTION:Gottesdienste Weingarten – Hl. Geist\nHl. Martin von Tours\nQ
+ uelle: https://katholisch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:82be06417ebb6013d7e3@gottesdienste-ics
+DTSTAMP:20261105T194532Z
+DTSTART:20261113T173000Z
+DTEND:20261113T183000Z
+SUMMARY:Abendmesse\, anschl. Einzelsegen mit der Hl.-Blut-Reliquie und Segn
+ ung der Andachtsgegenstände (Basilika)
+LOCATION:Basilika
+DESCRIPTION:Gottesdienste Weingarten – Basilika\nQuelle: https://katholis
+ ch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:c808a7cc9c2164b4da72@gottesdienste-ics
+DTSTAMP:20261105T194532Z
+DTSTART:20261114T073000Z
+DTEND:20261114T083000Z
+SUMMARY:Eucharistiefeier (Marienkapelle) (Basilika)
+LOCATION:Basilika
+DESCRIPTION:Gottesdienste Weingarten – Basilika\nQuelle: https://katholis
+ ch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:1e28918ea140d718fb28@gottesdienste-ics
+DTSTAMP:20261105T194532Z
+DTSTART:20261114T080000Z
+DTEND:20261114T093000Z
+SUMMARY:Beichtgelegenheit (Marienkapelle) (Basilika)
+LOCATION:Basilika
+DESCRIPTION:Gottesdienste Weingarten – Basilika\nQuelle: https://katholis
+ ch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:34d1dc9101ae890f0783@gottesdienste-ics
+DTSTAMP:20261105T194532Z
+DTSTART:20261114T150000Z
+DTEND:20261114T160000Z
+SUMMARY:Eucharistiefeier der ungarischen Gemeinde zum Patrozinium (St. Mari
+ a)
+LOCATION:St. Maria
+DESCRIPTION:Gottesdienste Weingarten – St. Maria\nQuelle: https://katholi
+ sch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:03a35ddfcc669127fd13@gottesdienste-ics
+DTSTAMP:20261105T194532Z
+DTSTART:20261114T173000Z
+DTEND:20261114T183000Z
+SUMMARY:Vorabendmesse (Hl. Geist)
+LOCATION:Hl. Geist
+DESCRIPTION:Gottesdienste Weingarten – Hl. Geist\nQuelle: https://katholi
+ sch-weingarten.de/gottesdienste/
+END:VEVENT
+END:VCALENDAR

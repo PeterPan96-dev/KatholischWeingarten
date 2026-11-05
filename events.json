@@ -1,0 +1,170 @@
+[
+ {
+  "uid": "d8ab71f3baa8a748352c@gottesdienste-ics",
+  "start": "2026-11-06T08:30:00+01:00",
+  "end": "2026-11-06T09:30:00+01:00",
+  "summary": "Eucharistiefeier, mitgestaltet von der (St. Maria)",
+  "location": "St. Maria",
+  "description": "Gottesdienste Weingarten – St. Maria\nHl. Leonhard\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "b23c7b18604601524e51@gottesdienste-ics",
+  "start": "2026-11-06T18:30:00+01:00",
+  "end": "2026-11-06T19:30:00+01:00",
+  "summary": "Abendmesse, anschl. Einzelsegen mit der Hl.-Blut-Reliquie und Segnung der Andachtsgegenstände (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\nHl. Leonhard\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "76ca6611758f68c686ca@gottesdienste-ics",
+  "start": "2026-11-07T08:30:00+01:00",
+  "end": "2026-11-07T09:30:00+01:00",
+  "summary": "Eucharistiefeier (Marienkapelle) (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "1a6f4c8ad33bbbbef3c1@gottesdienste-ics",
+  "start": "2026-11-07T09:00:00+01:00",
+  "end": "2026-11-07T10:30:00+01:00",
+  "summary": "Beichtgelegenheit (Marienkapelle) (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "d72da182118b134826e8@gottesdienste-ics",
+  "start": "2026-11-07T10:00:00+01:00",
+  "end": "2026-11-07T11:00:00+01:00",
+  "summary": "Firmgottesdienst mit Domkapitular Thomas Weißhaar (St. Maria)",
+  "location": "St. Maria",
+  "description": "Gottesdienste Weingarten – St. Maria\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "2794bac804ac93d81619@gottesdienste-ics",
+  "start": "2026-11-07T15:00:00+01:00",
+  "end": "2026-11-07T16:00:00+01:00",
+  "summary": "Firmgottesdienst mit Domkapitular Thomas Weißhaar (St. Maria)",
+  "location": "St. Maria",
+  "description": "Gottesdienste Weingarten – St. Maria\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "1ff145136aea22b84441@gottesdienste-ics",
+  "start": "2026-11-07T15:00:00+01:00",
+  "end": "2026-11-07T16:00:00+01:00",
+  "summary": "Eucharistiefeier (Adolf-Gröber-Haus)",
+  "location": "Adolf-Gröber-Haus",
+  "description": "Gottesdienste Weingarten – Adolf-Gröber-Haus\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "2c230b7cfe6a90ecda16@gottesdienste-ics",
+  "start": "2026-11-07T18:30:00+01:00",
+  "end": "2026-11-07T19:30:00+01:00",
+  "summary": "Wort-Gottes-Feier zum Sonntag mit Kommunion (Hl. Geist)",
+  "location": "Hl. Geist",
+  "description": "Gottesdienste Weingarten – Hl. Geist\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "9f698fd86c8f6237dc82@gottesdienste-ics",
+  "start": "2026-11-08T09:00:00+01:00",
+  "end": "2026-11-08T10:00:00+01:00",
+  "summary": "Eucharistiefeier (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\n32. Sonntag im Jahreskreis\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "f076e4ae3c8858af64b5@gottesdienste-ics",
+  "start": "2026-11-08T10:30:00+01:00",
+  "end": "2026-11-08T11:30:00+01:00",
+  "summary": "Eucharistiefeier (St. Maria)",
+  "location": "St. Maria",
+  "description": "Gottesdienste Weingarten – St. Maria\n32. Sonntag im Jahreskreis\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "d4123585db7b5dd6757d@gottesdienste-ics",
+  "start": "2026-11-08T18:30:00+01:00",
+  "end": "2026-11-08T19:30:00+01:00",
+  "summary": "Abendmesse (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\n32. Sonntag im Jahreskreis\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "9525a2efbc82a03b92cf@gottesdienste-ics",
+  "start": "2026-11-10T18:30:00+01:00",
+  "end": "2026-11-10T19:30:00+01:00",
+  "summary": "Abendmesse (St. Maria)",
+  "location": "St. Maria",
+  "description": "Gottesdienste Weingarten – St. Maria\nHl. Leo der Große\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "ac64604c4c1b47b069d9@gottesdienste-ics",
+  "start": "2026-11-10T18:30:00+01:00",
+  "end": "2026-11-10T19:30:00+01:00",
+  "summary": "Eucharistische Anbetung (Marienkapelle) (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\nHl. Leo der Große\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "4f90f250a27596bd9421@gottesdienste-ics",
+  "start": "2026-11-11T08:30:00+01:00",
+  "end": "2026-11-11T09:30:00+01:00",
+  "summary": "Eucharistiefeier zum Patrozinium (Marienkapelle) (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\nHl. Martin von Tours\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "66e319ce077dd054c04f@gottesdienste-ics",
+  "start": "2026-11-11T17:00:00+01:00",
+  "end": "2026-11-11T18:00:00+01:00",
+  "summary": "St. Martins-Feier der Kinder in Nessenreben (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\nHl. Martin von Tours\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "7f9e30f6ec596c811801@gottesdienste-ics",
+  "start": "2026-11-11T18:30:00+01:00",
+  "end": "2026-11-11T19:30:00+01:00",
+  "summary": "Eucharistiefeier (Hl. Geist)",
+  "location": "Hl. Geist",
+  "description": "Gottesdienste Weingarten – Hl. Geist\nHl. Martin von Tours\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "82be06417ebb6013d7e3@gottesdienste-ics",
+  "start": "2026-11-13T18:30:00+01:00",
+  "end": "2026-11-13T19:30:00+01:00",
+  "summary": "Abendmesse, anschl. Einzelsegen mit der Hl.-Blut-Reliquie und Segnung der Andachtsgegenstände (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "c808a7cc9c2164b4da72@gottesdienste-ics",
+  "start": "2026-11-14T08:30:00+01:00",
+  "end": "2026-11-14T09:30:00+01:00",
+  "summary": "Eucharistiefeier (Marienkapelle) (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "1e28918ea140d718fb28@gottesdienste-ics",
+  "start": "2026-11-14T09:00:00+01:00",
+  "end": "2026-11-14T10:30:00+01:00",
+  "summary": "Beichtgelegenheit (Marienkapelle) (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "34d1dc9101ae890f0783@gottesdienste-ics",
+  "start": "2026-11-14T16:00:00+01:00",
+  "end": "2026-11-14T17:00:00+01:00",
+  "summary": "Eucharistiefeier der ungarischen Gemeinde zum Patrozinium (St. Maria)",
+  "location": "St. Maria",
+  "description": "Gottesdienste Weingarten – St. Maria\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "03a35ddfcc669127fd13@gottesdienste-ics",
+  "start": "2026-11-14T18:30:00+01:00",
+  "end": "2026-11-14T19:30:00+01:00",
+  "summary": "Vorabendmesse (Hl. Geist)",
+  "location": "Hl. Geist",
+  "description": "Gottesdienste Weingarten – Hl. Geist\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ }
+]
