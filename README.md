@@ -1,6 +1,6 @@
 # Gottesdienste Weingarten als Kalender-Abo
 
-Ein Skript liest wöchentlich (donnerstags) https://katholisch-weingarten.de/gottesdienste/ und erzeugt `gottesdienste.ics`.
+Ein Skript liest zweimal pro Woche (sonntags und donnerstags) https://katholisch-weingarten.de/gottesdienste/ und erzeugt `gottesdienste.ics`.
 
 ## Einrichtung (einmalig, ca. 5 Minuten)
 
