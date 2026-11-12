@@ -214,5 +214,141 @@
   "summary": "Vorabendmesse (Hl. Geist)",
   "location": "Hl. Geist",
   "description": "Gottesdienste Weingarten – Hl. Geist\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "e8e2900903fdff93e2b1@gottesdienste-ics",
+  "start": "2026-11-15T10:30:00+01:00",
+  "end": "2026-11-15T11:30:00+01:00",
+  "summary": "Festgottesdienst. Der Basilikachor singt die Missa in contrapuncto (dem Kloster Weingarten gewidmet) und der Chorsatz Beati omnes von J.E. Eberlin ((!) Basilika)",
+  "location": "(!) Basilika",
+  "description": "Gottesdienste Weingarten – (!) Basilika\nHochfest Hl. Martin (Diözesanpatron und Patron der Basilika), Diaspora-Kollekte\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "a21331a9a9a36788e4e9@gottesdienste-ics",
+  "start": "2026-11-15T10:30:00+01:00",
+  "end": "2026-11-15T11:30:00+01:00",
+  "summary": "Kindergottesdienst (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\nHochfest Hl. Martin (Diözesanpatron und Patron der Basilika), Diaspora-Kollekte\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "ee5312369afa94853ae2@gottesdienste-ics",
+  "start": "2026-11-15T10:30:00+01:00",
+  "end": "2026-11-15T11:30:00+01:00",
+  "summary": "Wort-Gottes-Feier mit Kommunion (St. Maria)",
+  "location": "St. Maria",
+  "description": "Gottesdienste Weingarten – St. Maria\nHochfest Hl. Martin (Diözesanpatron und Patron der Basilika), Diaspora-Kollekte\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "4e49cf06e55ad28009d8@gottesdienste-ics",
+  "start": "2026-11-15T12:00:00+01:00",
+  "end": "2026-11-15T13:00:00+01:00",
+  "summary": "Gottesdienst der eriträischen Gemeinde (Hl. Geist)",
+  "location": "Hl. Geist",
+  "description": "Gottesdienste Weingarten – Hl. Geist\nHochfest Hl. Martin (Diözesanpatron und Patron der Basilika), Diaspora-Kollekte\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "8552da37a3fa4f0b9425@gottesdienste-ics",
+  "start": "2026-11-15T18:30:00+01:00",
+  "end": "2026-11-15T19:30:00+01:00",
+  "summary": "Abendmesse (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\nHochfest Hl. Martin (Diözesanpatron und Patron der Basilika), Diaspora-Kollekte\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "f43b226a774eaadccba9@gottesdienste-ics",
+  "start": "2026-11-17T14:00:00+01:00",
+  "end": "2026-11-17T15:00:00+01:00",
+  "summary": "Eucharistiefeier mit Krankensalbung, (St. Maria)",
+  "location": "St. Maria",
+  "description": "Gottesdienste Weingarten – St. Maria\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "78f58916ce498f3b146e@gottesdienste-ics",
+  "start": "2026-11-17T18:30:00+01:00",
+  "end": "2026-11-17T19:30:00+01:00",
+  "summary": "Abendmesse (St. Maria)",
+  "location": "St. Maria",
+  "description": "Gottesdienste Weingarten – St. Maria\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "1011f9ed613ea4bafa57@gottesdienste-ics",
+  "start": "2026-11-17T18:30:00+01:00",
+  "end": "2026-11-17T19:30:00+01:00",
+  "summary": "Abendmesse mit Totengedenken der Blutfreitagsgemeinschaft und anschl. Zusammenkunft in den kirchennahen Räumen.. (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "f152b6a5664e77b58c5d@gottesdienste-ics",
+  "start": "2026-11-18T19:00:00+01:00",
+  "end": "2026-11-18T20:00:00+01:00",
+  "summary": "Ökumen. Gottesdienst zum Buß- und Bettag (Ev. Stadtkirche)",
+  "location": "Ev. Stadtkirche",
+  "description": "Gottesdienste Weingarten – Ev. Stadtkirche\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "76781f8230c88c582d1f@gottesdienste-ics",
+  "start": "2026-11-19T07:25:00+01:00",
+  "end": "2026-11-19T08:25:00+01:00",
+  "summary": "Schülermesse für die EK-Kinder aus St. Martin und Hl. Geist (Marienkapelle) (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\nHl. Elisabeth von Thüringen\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "891c5de724137d48e1d2@gottesdienste-ics",
+  "start": "2026-11-19T07:25:00+01:00",
+  "end": "2026-11-19T08:25:00+01:00",
+  "summary": "Schülermesse für die EK-Kinder aus St. Maria (St. Maria)",
+  "location": "St. Maria",
+  "description": "Gottesdienste Weingarten – St. Maria\nHl. Elisabeth von Thüringen\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "178d04e0e046553936be@gottesdienste-ics",
+  "start": "2026-11-19T18:00:00+01:00",
+  "end": "2026-11-19T19:00:00+01:00",
+  "summary": "Eucharistische Anbetung (St. Maria)",
+  "location": "St. Maria",
+  "description": "Gottesdienste Weingarten – St. Maria\nHl. Elisabeth von Thüringen\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "ecdf447b52653e73d15b@gottesdienste-ics",
+  "start": "2026-11-20T08:30:00+01:00",
+  "end": "2026-11-20T09:30:00+01:00",
+  "summary": "Morgenlob, mitgestaltet von der Musikgruppe „Tau“ (St. Maria)",
+  "location": "St. Maria",
+  "description": "Gottesdienste Weingarten – St. Maria\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "c9d65acc93eeed15f060@gottesdienste-ics",
+  "start": "2026-11-20T18:30:00+01:00",
+  "end": "2026-11-20T19:30:00+01:00",
+  "summary": "Abendmesse, anschl. Einzelsegen mit der Hl.-Blut-Reliquie und Segnung der Andachtsgegenstände (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "b5ffe27c97c52ffc887e@gottesdienste-ics",
+  "start": "2026-11-21T08:30:00+01:00",
+  "end": "2026-11-21T09:30:00+01:00",
+  "summary": "Eucharistiefeier (Marienkapelle) (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\nGedenktag Unserer Lieben Frau in Jerusalem\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "c632e8b5647bf63ed0c4@gottesdienste-ics",
+  "start": "2026-11-21T09:00:00+01:00",
+  "end": "2026-11-21T10:30:00+01:00",
+  "summary": "Beichtgelegenheit (Marienkapelle) (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\nGedenktag Unserer Lieben Frau in Jerusalem\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "7145fcee7471cd1cbe4a@gottesdienste-ics",
+  "start": "2026-11-21T18:30:00+01:00",
+  "end": "2026-11-21T19:30:00+01:00",
+  "summary": "Vorabendmesse (Hl. Geist)",
+  "location": "Hl. Geist",
+  "description": "Gottesdienste Weingarten – Hl. Geist\nGedenktag Unserer Lieben Frau in Jerusalem\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
  }
 ]
