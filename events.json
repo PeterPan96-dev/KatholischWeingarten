@@ -470,5 +470,93 @@
   "summary": "Vorabendmesse (Hl. Geist)",
   "location": "Hl. Geist",
   "description": "Gottesdienste Weingarten – Hl. Geist\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "2c7d3080d5895156dfd3@gottesdienste-ics",
+  "start": "2026-11-29T09:00:00+01:00",
+  "end": "2026-11-29T10:00:00+01:00",
+  "summary": "Eucharistiefeier (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\n1. Adventssonntag / Neues Kirchenjahr\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "aca9f62f9858694b763f@gottesdienste-ics",
+  "start": "2026-11-29T10:30:00+01:00",
+  "end": "2026-11-29T11:30:00+01:00",
+  "summary": "Eucharistiefeier, gestaltet als Familiengottesdienst, Kolping-Gedenktag. Anschließend Kirchencafé und Kuchenverkauf der Ministranten (St. Maria)",
+  "location": "St. Maria",
+  "description": "Gottesdienste Weingarten – St. Maria\n1. Adventssonntag / Neues Kirchenjahr\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "d2f3ffaad1784f651948@gottesdienste-ics",
+  "start": "2026-11-29T18:30:00+01:00",
+  "end": "2026-11-29T19:30:00+01:00",
+  "summary": "Abendmesse mit dem Basilikachor (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\n1. Adventssonntag / Neues Kirchenjahr\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "85317421025a9586a708@gottesdienste-ics",
+  "start": "2026-12-01T18:30:00+01:00",
+  "end": "2026-12-01T19:30:00+01:00",
+  "summary": "Abendmesse (St. Maria)",
+  "location": "St. Maria",
+  "description": "Gottesdienste Weingarten – St. Maria\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "d3e73aa08df44d50353c@gottesdienste-ics",
+  "start": "2026-12-01T18:30:00+01:00",
+  "end": "2026-12-01T19:30:00+01:00",
+  "summary": "Eucharistische Anbetung (Marienkapelle) (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "b486b53471ae368587bb@gottesdienste-ics",
+  "start": "2026-12-02T16:00:00+01:00",
+  "end": "2026-12-02T17:00:00+01:00",
+  "summary": "Eucharistiefeier im Haus Judith (Hl. Geist)",
+  "location": "Hl. Geist",
+  "description": "Gottesdienste Weingarten – Hl. Geist\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "1ab76c87862296c67175@gottesdienste-ics",
+  "start": "2026-12-04T06:00:00+01:00",
+  "end": "2026-12-04T07:00:00+01:00",
+  "summary": "Rorate / Eucharistiefeier im Kerzenschein. Bitte bringen Sie eine tropfgeschützte Kerze mit. Anschließend gemeinsames Frühstück im Gemeindehaus. (St. Maria)",
+  "location": "St. Maria",
+  "description": "Gottesdienste Weingarten – St. Maria\nHl. Barbara\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "b408ef42a7cce2e26a6d@gottesdienste-ics",
+  "start": "2026-12-04T18:30:00+01:00",
+  "end": "2026-12-04T19:30:00+01:00",
+  "summary": "Abendmesse, anschl. Einzelsegen mit der Hl.-Blut-Reliquie und Segnung der Andachtsgegenstände (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\nHl. Barbara\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "4525addf6a5897d13e31@gottesdienste-ics",
+  "start": "2026-12-05T09:00:00+01:00",
+  "end": "2026-12-05T10:00:00+01:00",
+  "summary": "Beichtgelegenheit bis 11 Uhr (Marienkapelle) (Basilika)",
+  "location": "Basilika",
+  "description": "Gottesdienste Weingarten – Basilika\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "e55bbf18bb9563ff8cd7@gottesdienste-ics",
+  "start": "2026-12-05T15:00:00+01:00",
+  "end": "2026-12-05T16:00:00+01:00",
+  "summary": "Eucharistiefeier (Adolf-Gröber-Haus)",
+  "location": "Adolf-Gröber-Haus",
+  "description": "Gottesdienste Weingarten – Adolf-Gröber-Haus\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
+ },
+ {
+  "uid": "e9a42e14558665726602@gottesdienste-ics",
+  "start": "2026-12-05T18:30:00+01:00",
+  "end": "2026-12-05T19:30:00+01:00",
+  "summary": "Wort-Gottes-Feier zum Sonntag mit Kommunion (Hl. Geist)",
+  "location": "Hl. Geist",
+  "description": "Gottesdienste Weingarten – Hl. Geist\nQuelle: https://katholisch-weingarten.de/gottesdienste/"
  }
 ]

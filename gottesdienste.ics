@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:39f6c817a41ab314a4f6@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261105T062500Z
 DTEND:20261105T072500Z
 SUMMARY:Schülermesse für die EK-Kinder aus St. Martin (Marienkapelle) (Ba
@@ -20,7 +20,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nQuelle: https://katholis
 END:VEVENT
 BEGIN:VEVENT
 UID:a7260297e3926b339b8d@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261105T062500Z
 DTEND:20261105T072500Z
 SUMMARY:Schülermesse für die EK-Kinder aus St. Maria und Hl. Geist (St. M
@@ -31,7 +31,7 @@ DESCRIPTION:Gottesdienste Weingarten – St. Maria\nQuelle: https://katholi
 END:VEVENT
 BEGIN:VEVENT
 UID:f442f93e215698267f10@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261105T173000Z
 DTEND:20261105T183000Z
 SUMMARY:Taizé-Singen (Basilika)
@@ -41,7 +41,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nQuelle: https://katholis
 END:VEVENT
 BEGIN:VEVENT
 UID:85c7f883722eaf0c5caf@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261106T073000Z
 DTEND:20261106T083000Z
 SUMMARY:Eucharistiefeier\, mitgestaltet von der Musikgruppe „Tau“ (St. 
@@ -52,7 +52,7 @@ DESCRIPTION:Gottesdienste Weingarten – St. Maria\nHl. Leonhard\nQuelle: h
 END:VEVENT
 BEGIN:VEVENT
 UID:b23c7b18604601524e51@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261106T173000Z
 DTEND:20261106T183000Z
 SUMMARY:Abendmesse\, anschl. Einzelsegen mit der Hl.-Blut-Reliquie und Segn
@@ -63,7 +63,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nHl. Leonhard\nQuelle: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:76ca6611758f68c686ca@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261107T073000Z
 DTEND:20261107T083000Z
 SUMMARY:Eucharistiefeier (Marienkapelle) (Basilika)
@@ -73,7 +73,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nQuelle: https://katholis
 END:VEVENT
 BEGIN:VEVENT
 UID:1a6f4c8ad33bbbbef3c1@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261107T080000Z
 DTEND:20261107T093000Z
 SUMMARY:Beichtgelegenheit (Marienkapelle) (Basilika)
@@ -83,7 +83,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nQuelle: https://katholis
 END:VEVENT
 BEGIN:VEVENT
 UID:d72da182118b134826e8@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261107T090000Z
 DTEND:20261107T100000Z
 SUMMARY:Firmgottesdienst mit Domkapitular Thomas Weißhaar (St. Maria)
@@ -93,7 +93,7 @@ DESCRIPTION:Gottesdienste Weingarten – St. Maria\nQuelle: https://katholi
 END:VEVENT
 BEGIN:VEVENT
 UID:2794bac804ac93d81619@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261107T140000Z
 DTEND:20261107T150000Z
 SUMMARY:Firmgottesdienst mit Domkapitular Thomas Weißhaar (St. Maria)
@@ -103,7 +103,7 @@ DESCRIPTION:Gottesdienste Weingarten – St. Maria\nQuelle: https://katholi
 END:VEVENT
 BEGIN:VEVENT
 UID:1ff145136aea22b84441@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261107T140000Z
 DTEND:20261107T150000Z
 SUMMARY:Eucharistiefeier (Adolf-Gröber-Haus)
@@ -113,7 +113,7 @@ DESCRIPTION:Gottesdienste Weingarten – Adolf-Gröber-Haus\nQuelle: https:
 END:VEVENT
 BEGIN:VEVENT
 UID:2c230b7cfe6a90ecda16@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261107T173000Z
 DTEND:20261107T183000Z
 SUMMARY:Wort-Gottes-Feier zum Sonntag mit Kommunion (Hl. Geist)
@@ -123,7 +123,7 @@ DESCRIPTION:Gottesdienste Weingarten – Hl. Geist\nQuelle: https://katholi
 END:VEVENT
 BEGIN:VEVENT
 UID:9f698fd86c8f6237dc82@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261108T080000Z
 DTEND:20261108T090000Z
 SUMMARY:Eucharistiefeier (Basilika)
@@ -133,7 +133,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\n32. Sonntag im Jahreskre
 END:VEVENT
 BEGIN:VEVENT
 UID:f076e4ae3c8858af64b5@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261108T093000Z
 DTEND:20261108T103000Z
 SUMMARY:Eucharistiefeier (St. Maria)
@@ -143,7 +143,7 @@ DESCRIPTION:Gottesdienste Weingarten – St. Maria\n32. Sonntag im Jahreskr
 END:VEVENT
 BEGIN:VEVENT
 UID:d4123585db7b5dd6757d@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261108T173000Z
 DTEND:20261108T183000Z
 SUMMARY:Abendmesse (Basilika)
@@ -153,7 +153,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\n32. Sonntag im Jahreskre
 END:VEVENT
 BEGIN:VEVENT
 UID:9525a2efbc82a03b92cf@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261110T173000Z
 DTEND:20261110T183000Z
 SUMMARY:Abendmesse (St. Maria)
@@ -163,7 +163,7 @@ DESCRIPTION:Gottesdienste Weingarten – St. Maria\nHl. Leo der Große\nQue
 END:VEVENT
 BEGIN:VEVENT
 UID:ac64604c4c1b47b069d9@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261110T173000Z
 DTEND:20261110T183000Z
 SUMMARY:Eucharistische Anbetung (Marienkapelle) (Basilika)
@@ -173,7 +173,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nHl. Leo der Große\nQuel
 END:VEVENT
 BEGIN:VEVENT
 UID:4f90f250a27596bd9421@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261111T073000Z
 DTEND:20261111T083000Z
 SUMMARY:Eucharistiefeier zum Patrozinium (Marienkapelle) (Basilika)
@@ -183,7 +183,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nHl. Martin von Tours\nQu
 END:VEVENT
 BEGIN:VEVENT
 UID:66e319ce077dd054c04f@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261111T160000Z
 DTEND:20261111T170000Z
 SUMMARY:St. Martins-Feier der Kinder in Nessenreben (Basilika)
@@ -193,7 +193,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nHl. Martin von Tours\nQu
 END:VEVENT
 BEGIN:VEVENT
 UID:7f9e30f6ec596c811801@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261111T173000Z
 DTEND:20261111T183000Z
 SUMMARY:Eucharistiefeier (Hl. Geist)
@@ -203,7 +203,7 @@ DESCRIPTION:Gottesdienste Weingarten – Hl. Geist\nHl. Martin von Tours\nQ
 END:VEVENT
 BEGIN:VEVENT
 UID:56ea6135de3fb37d6819@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261112T062500Z
 DTEND:20261112T072500Z
 SUMMARY:Schülermesse für die EK-Kinder aus St. Martin (Marienkapelle) (Ba
@@ -214,7 +214,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nQuelle: https://katholis
 END:VEVENT
 BEGIN:VEVENT
 UID:7e965d8d0fd1fa45cfe6@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261112T062500Z
 DTEND:20261112T072500Z
 SUMMARY:Schülermesse für die EK-Kinder aus St. Maria und Hl. Geist (St. M
@@ -225,7 +225,7 @@ DESCRIPTION:Gottesdienste Weingarten – St. Maria\nQuelle: https://katholi
 END:VEVENT
 BEGIN:VEVENT
 UID:9d559fc3b53621d28c7b@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261113T073000Z
 DTEND:20261113T083000Z
 SUMMARY:Morgenlob\, mitgestaltet von der Musikgruppe „Tau“ (St. Maria)
@@ -235,7 +235,7 @@ DESCRIPTION:Gottesdienste Weingarten – St. Maria\nQuelle: https://katholi
 END:VEVENT
 BEGIN:VEVENT
 UID:82be06417ebb6013d7e3@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261113T173000Z
 DTEND:20261113T183000Z
 SUMMARY:Abendmesse\, anschl. Einzelsegen mit der Hl.-Blut-Reliquie und Segn
@@ -246,7 +246,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nQuelle: https://katholis
 END:VEVENT
 BEGIN:VEVENT
 UID:c808a7cc9c2164b4da72@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261114T073000Z
 DTEND:20261114T083000Z
 SUMMARY:Eucharistiefeier (Marienkapelle) (Basilika)
@@ -256,7 +256,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nQuelle: https://katholis
 END:VEVENT
 BEGIN:VEVENT
 UID:1e28918ea140d718fb28@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261114T080000Z
 DTEND:20261114T093000Z
 SUMMARY:Beichtgelegenheit (Marienkapelle) (Basilika)
@@ -266,7 +266,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nQuelle: https://katholis
 END:VEVENT
 BEGIN:VEVENT
 UID:34d1dc9101ae890f0783@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261114T150000Z
 DTEND:20261114T160000Z
 SUMMARY:Eucharistiefeier der ungarischen Gemeinde zum Patrozinium (St. Mari
@@ -277,7 +277,7 @@ DESCRIPTION:Gottesdienste Weingarten – St. Maria\nQuelle: https://katholi
 END:VEVENT
 BEGIN:VEVENT
 UID:03a35ddfcc669127fd13@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261114T173000Z
 DTEND:20261114T183000Z
 SUMMARY:Vorabendmesse (Hl. Geist)
@@ -287,7 +287,7 @@ DESCRIPTION:Gottesdienste Weingarten – Hl. Geist\nQuelle: https://katholi
 END:VEVENT
 BEGIN:VEVENT
 UID:e8e2900903fdff93e2b1@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261115T093000Z
 DTEND:20261115T103000Z
 SUMMARY:Festgottesdienst. Der Basilikachor singt die Missa in contrapuncto 
@@ -300,7 +300,7 @@ DESCRIPTION:Gottesdienste Weingarten – (!) Basilika\nHochfest Hl. Martin
 END:VEVENT
 BEGIN:VEVENT
 UID:a21331a9a9a36788e4e9@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261115T093000Z
 DTEND:20261115T103000Z
 SUMMARY:Kindergottesdienst (Basilika)
@@ -311,7 +311,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nHochfest Hl. Martin (Di
 END:VEVENT
 BEGIN:VEVENT
 UID:ee5312369afa94853ae2@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261115T093000Z
 DTEND:20261115T103000Z
 SUMMARY:Wort-Gottes-Feier mit Kommunion (St. Maria)
@@ -322,7 +322,7 @@ DESCRIPTION:Gottesdienste Weingarten – St. Maria\nHochfest Hl. Martin (Di
 END:VEVENT
 BEGIN:VEVENT
 UID:4e49cf06e55ad28009d8@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261115T110000Z
 DTEND:20261115T120000Z
 SUMMARY:Gottesdienst der eriträischen Gemeinde (Hl. Geist)
@@ -333,7 +333,7 @@ DESCRIPTION:Gottesdienste Weingarten – Hl. Geist\nHochfest Hl. Martin (Di
 END:VEVENT
 BEGIN:VEVENT
 UID:8552da37a3fa4f0b9425@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261115T173000Z
 DTEND:20261115T183000Z
 SUMMARY:Abendmesse (Basilika)
@@ -344,7 +344,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nHochfest Hl. Martin (Di
 END:VEVENT
 BEGIN:VEVENT
 UID:f43b226a774eaadccba9@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261117T130000Z
 DTEND:20261117T140000Z
 SUMMARY:Eucharistiefeier mit Krankensalbung\, (St. Maria)
@@ -354,7 +354,7 @@ DESCRIPTION:Gottesdienste Weingarten – St. Maria\nQuelle: https://katholi
 END:VEVENT
 BEGIN:VEVENT
 UID:78f58916ce498f3b146e@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261117T173000Z
 DTEND:20261117T183000Z
 SUMMARY:Abendmesse (St. Maria)
@@ -364,7 +364,7 @@ DESCRIPTION:Gottesdienste Weingarten – St. Maria\nQuelle: https://katholi
 END:VEVENT
 BEGIN:VEVENT
 UID:1011f9ed613ea4bafa57@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261117T173000Z
 DTEND:20261117T183000Z
 SUMMARY:Abendmesse mit Totengedenken der Blutfreitagsgemeinschaft und ansch
@@ -375,7 +375,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nQuelle: https://katholis
 END:VEVENT
 BEGIN:VEVENT
 UID:f152b6a5664e77b58c5d@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261118T180000Z
 DTEND:20261118T190000Z
 SUMMARY:Ökumen. Gottesdienst zum Buß- und Bettag (Ev. Stadtkirche)
@@ -385,7 +385,7 @@ DESCRIPTION:Gottesdienste Weingarten – Ev. Stadtkirche\nQuelle: https://k
 END:VEVENT
 BEGIN:VEVENT
 UID:76781f8230c88c582d1f@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261119T062500Z
 DTEND:20261119T072500Z
 SUMMARY:Schülermesse für die EK-Kinder aus St. Martin und Hl. Geist (Mari
@@ -396,7 +396,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nHl. Elisabeth von Thüri
 END:VEVENT
 BEGIN:VEVENT
 UID:891c5de724137d48e1d2@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261119T062500Z
 DTEND:20261119T072500Z
 SUMMARY:Schülermesse für die EK-Kinder aus St. Maria (St. Maria)
@@ -406,7 +406,7 @@ DESCRIPTION:Gottesdienste Weingarten – St. Maria\nHl. Elisabeth von Thür
 END:VEVENT
 BEGIN:VEVENT
 UID:178d04e0e046553936be@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261119T170000Z
 DTEND:20261119T180000Z
 SUMMARY:Eucharistische Anbetung (St. Maria)
@@ -416,7 +416,7 @@ DESCRIPTION:Gottesdienste Weingarten – St. Maria\nHl. Elisabeth von Thür
 END:VEVENT
 BEGIN:VEVENT
 UID:ecdf447b52653e73d15b@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261120T073000Z
 DTEND:20261120T083000Z
 SUMMARY:Morgenlob\, mitgestaltet von der Musikgruppe „Tau“ (St. Maria)
@@ -426,7 +426,7 @@ DESCRIPTION:Gottesdienste Weingarten – St. Maria\nQuelle: https://katholi
 END:VEVENT
 BEGIN:VEVENT
 UID:c9d65acc93eeed15f060@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261120T173000Z
 DTEND:20261120T183000Z
 SUMMARY:Abendmesse\, anschl. Einzelsegen mit der Hl.-Blut-Reliquie und Segn
@@ -437,7 +437,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nQuelle: https://katholis
 END:VEVENT
 BEGIN:VEVENT
 UID:b5ffe27c97c52ffc887e@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261121T073000Z
 DTEND:20261121T083000Z
 SUMMARY:Eucharistiefeier (Marienkapelle) (Basilika)
@@ -448,7 +448,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nGedenktag Unserer Lieben
 END:VEVENT
 BEGIN:VEVENT
 UID:c632e8b5647bf63ed0c4@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261121T080000Z
 DTEND:20261121T093000Z
 SUMMARY:Beichtgelegenheit (Marienkapelle) (Basilika)
@@ -459,7 +459,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nGedenktag Unserer Lieben
 END:VEVENT
 BEGIN:VEVENT
 UID:7145fcee7471cd1cbe4a@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261121T173000Z
 DTEND:20261121T183000Z
 SUMMARY:Vorabendmesse (Hl. Geist)
@@ -470,7 +470,7 @@ DESCRIPTION:Gottesdienste Weingarten – Hl. Geist\nGedenktag Unserer Liebe
 END:VEVENT
 BEGIN:VEVENT
 UID:00dded80338d8a4736d2@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261122T080000Z
 DTEND:20261122T090000Z
 SUMMARY:Eucharistiefeier (Basilika)
@@ -481,7 +481,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nChristkönigsonntag / Ab
 END:VEVENT
 BEGIN:VEVENT
 UID:fd826e048f1c42d45e58@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261122T093000Z
 DTEND:20261122T103000Z
 SUMMARY:Eucharistiefeier (St. Maria)
@@ -492,7 +492,7 @@ DESCRIPTION:Gottesdienste Weingarten – St. Maria\nChristkönigsonntag / A
 END:VEVENT
 BEGIN:VEVENT
 UID:33c52ec9372a3a9c6962@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261122T104500Z
 DTEND:20261122T114500Z
 SUMMARY:Tauffeier von Mia Kalb (St. Maria)
@@ -503,7 +503,7 @@ DESCRIPTION:Gottesdienste Weingarten – St. Maria\nChristkönigsonntag / A
 END:VEVENT
 BEGIN:VEVENT
 UID:e0b1959ad008c5deb888@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261122T173000Z
 DTEND:20261122T183000Z
 SUMMARY:Abendmesse mit dem Projektchor „Basilikum“ (Basilika)
@@ -514,7 +514,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nChristkönigsonntag / Ab
 END:VEVENT
 BEGIN:VEVENT
 UID:4e3894eb8eb6cfcbdcdf@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261124T173000Z
 DTEND:20261124T183000Z
 SUMMARY:Abendmesse (St. Maria)
@@ -524,7 +524,7 @@ DESCRIPTION:Gottesdienste Weingarten – St. Maria\nQuelle: https://katholi
 END:VEVENT
 BEGIN:VEVENT
 UID:a5e663e99851b4610225@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261124T173000Z
 DTEND:20261124T183000Z
 SUMMARY:Eucharistische Anbetung (Marienkapelle) (Basilika)
@@ -534,7 +534,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nQuelle: https://katholis
 END:VEVENT
 BEGIN:VEVENT
 UID:90f148840813abf4e23e@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261125T173000Z
 DTEND:20261125T183000Z
 SUMMARY:Eucharistiefeier (Hl. Geist)
@@ -544,7 +544,7 @@ DESCRIPTION:Gottesdienste Weingarten – Hl. Geist\nSel. Elisabeth von Reut
 END:VEVENT
 BEGIN:VEVENT
 UID:f5b4ddb805e4f07cd7d5@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261126T062500Z
 DTEND:20261126T072500Z
 SUMMARY:Schülermesse für die EK-Kinder aus St. Martin und Hl. Geist (Mari
@@ -555,7 +555,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nHl. Konrad\, Bischof von
 END:VEVENT
 BEGIN:VEVENT
 UID:d4baad3b10381ae5db2e@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261126T062500Z
 DTEND:20261126T072500Z
 SUMMARY:Schülermesse für die EK-Kinder aus St. Maria (St. Maria)
@@ -565,7 +565,7 @@ DESCRIPTION:Gottesdienste Weingarten – St. Maria\nHl. Konrad\, Bischof vo
 END:VEVENT
 BEGIN:VEVENT
 UID:b85eca114be0675c87ad@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261127T073000Z
 DTEND:20261127T083000Z
 SUMMARY:Eucharistiefeier (St. Maria)
@@ -575,7 +575,7 @@ DESCRIPTION:Gottesdienste Weingarten – St. Maria\nQuelle: https://katholi
 END:VEVENT
 BEGIN:VEVENT
 UID:e805fb4ab4b9e83e5858@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261127T133000Z
 DTEND:20261127T143000Z
 SUMMARY:Andacht mit dem ökumenischen Helferkreis (Marienkapelle) (Basilika
@@ -586,7 +586,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nQuelle: https://katholis
 END:VEVENT
 BEGIN:VEVENT
 UID:46772bd484822023da02@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261127T173000Z
 DTEND:20261127T183000Z
 SUMMARY:Abendmesse\, anschl. Einzelsegen mit der Hl.-Blut-Reliquie und Segn
@@ -597,7 +597,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nQuelle: https://katholis
 END:VEVENT
 BEGIN:VEVENT
 UID:a15199a0bbafc35c995e@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261128T073000Z
 DTEND:20261128T083000Z
 SUMMARY:Eucharistiefeier (Marienkapelle) (Basilika)
@@ -607,7 +607,7 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nQuelle: https://katholis
 END:VEVENT
 BEGIN:VEVENT
 UID:96a018c90186f939f1a6@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261128T080000Z
 DTEND:20261128T093000Z
 SUMMARY:Beichtgelegenheit (Marienkapelle) (Basilika)
@@ -617,10 +617,125 @@ DESCRIPTION:Gottesdienste Weingarten – Basilika\nQuelle: https://katholis
 END:VEVENT
 BEGIN:VEVENT
 UID:6d43525ba9975a2ae634@gottesdienste-ics
-DTSTAMP:20261119T130434Z
+DTSTAMP:20261126T135321Z
 DTSTART:20261128T173000Z
 DTEND:20261128T183000Z
 SUMMARY:Vorabendmesse (Hl. Geist)
+LOCATION:Hl. Geist
+DESCRIPTION:Gottesdienste Weingarten – Hl. Geist\nQuelle: https://katholi
+ sch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:2c7d3080d5895156dfd3@gottesdienste-ics
+DTSTAMP:20261126T135321Z
+DTSTART:20261129T080000Z
+DTEND:20261129T090000Z
+SUMMARY:Eucharistiefeier (Basilika)
+LOCATION:Basilika
+DESCRIPTION:Gottesdienste Weingarten – Basilika\n1. Adventssonntag / Neue
+ s Kirchenjahr\nQuelle: https://katholisch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:aca9f62f9858694b763f@gottesdienste-ics
+DTSTAMP:20261126T135321Z
+DTSTART:20261129T093000Z
+DTEND:20261129T103000Z
+SUMMARY:Eucharistiefeier\, gestaltet als Familiengottesdienst\, Kolping-Ged
+ enktag. Anschließend Kirchencafé und Kuchenverkauf der Ministranten (St.
+  Maria)
+LOCATION:St. Maria
+DESCRIPTION:Gottesdienste Weingarten – St. Maria\n1. Adventssonntag / Neu
+ es Kirchenjahr\nQuelle: https://katholisch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:d2f3ffaad1784f651948@gottesdienste-ics
+DTSTAMP:20261126T135321Z
+DTSTART:20261129T173000Z
+DTEND:20261129T183000Z
+SUMMARY:Abendmesse mit dem Basilikachor (Basilika)
+LOCATION:Basilika
+DESCRIPTION:Gottesdienste Weingarten – Basilika\n1. Adventssonntag / Neue
+ s Kirchenjahr\nQuelle: https://katholisch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:85317421025a9586a708@gottesdienste-ics
+DTSTAMP:20261126T135321Z
+DTSTART:20261201T173000Z
+DTEND:20261201T183000Z
+SUMMARY:Abendmesse (St. Maria)
+LOCATION:St. Maria
+DESCRIPTION:Gottesdienste Weingarten – St. Maria\nQuelle: https://katholi
+ sch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:d3e73aa08df44d50353c@gottesdienste-ics
+DTSTAMP:20261126T135321Z
+DTSTART:20261201T173000Z
+DTEND:20261201T183000Z
+SUMMARY:Eucharistische Anbetung (Marienkapelle) (Basilika)
+LOCATION:Basilika
+DESCRIPTION:Gottesdienste Weingarten – Basilika\nQuelle: https://katholis
+ ch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:b486b53471ae368587bb@gottesdienste-ics
+DTSTAMP:20261126T135321Z
+DTSTART:20261202T150000Z
+DTEND:20261202T160000Z
+SUMMARY:Eucharistiefeier im Haus Judith (Hl. Geist)
+LOCATION:Hl. Geist
+DESCRIPTION:Gottesdienste Weingarten – Hl. Geist\nQuelle: https://katholi
+ sch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:1ab76c87862296c67175@gottesdienste-ics
+DTSTAMP:20261126T135321Z
+DTSTART:20261204T050000Z
+DTEND:20261204T060000Z
+SUMMARY:Rorate / Eucharistiefeier im Kerzenschein. Bitte bringen Sie eine t
+ ropfgeschützte Kerze mit. Anschließend gemeinsames Frühstück im Gemein
+ dehaus. (St. Maria)
+LOCATION:St. Maria
+DESCRIPTION:Gottesdienste Weingarten – St. Maria\nHl. Barbara\nQuelle: ht
+ tps://katholisch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:b408ef42a7cce2e26a6d@gottesdienste-ics
+DTSTAMP:20261126T135321Z
+DTSTART:20261204T173000Z
+DTEND:20261204T183000Z
+SUMMARY:Abendmesse\, anschl. Einzelsegen mit der Hl.-Blut-Reliquie und Segn
+ ung der Andachtsgegenstände (Basilika)
+LOCATION:Basilika
+DESCRIPTION:Gottesdienste Weingarten – Basilika\nHl. Barbara\nQuelle: htt
+ ps://katholisch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:4525addf6a5897d13e31@gottesdienste-ics
+DTSTAMP:20261126T135321Z
+DTSTART:20261205T080000Z
+DTEND:20261205T090000Z
+SUMMARY:Beichtgelegenheit bis 11 Uhr (Marienkapelle) (Basilika)
+LOCATION:Basilika
+DESCRIPTION:Gottesdienste Weingarten – Basilika\nQuelle: https://katholis
+ ch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:e55bbf18bb9563ff8cd7@gottesdienste-ics
+DTSTAMP:20261126T135321Z
+DTSTART:20261205T140000Z
+DTEND:20261205T150000Z
+SUMMARY:Eucharistiefeier (Adolf-Gröber-Haus)
+LOCATION:Adolf-Gröber-Haus
+DESCRIPTION:Gottesdienste Weingarten – Adolf-Gröber-Haus\nQuelle: https:
+ //katholisch-weingarten.de/gottesdienste/
+END:VEVENT
+BEGIN:VEVENT
+UID:e9a42e14558665726602@gottesdienste-ics
+DTSTAMP:20261126T135321Z
+DTSTART:20261205T173000Z
+DTEND:20261205T183000Z
+SUMMARY:Wort-Gottes-Feier zum Sonntag mit Kommunion (Hl. Geist)
 LOCATION:Hl. Geist
 DESCRIPTION:Gottesdienste Weingarten – Hl. Geist\nQuelle: https://katholi
  sch-weingarten.de/gottesdienste/
